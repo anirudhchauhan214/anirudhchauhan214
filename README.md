@@ -12,10 +12,9 @@
 
 - 🙋‍♂️ All about me is at **[My Portfolio Website](https://your-website-link.com/)**
 - 🔭 I’m currently working on `Full-Stack Projects`
-- 🌱 I’m currently learning `Backend Development (Nest.js, Python)`
 - 👯 I’m looking to collaborate on `Open Source & Dev Projects`
 - 🤔 I’m exploring `System Design & Scalable Architectures`
-- 💬 Ask me about `React, Next.js, Node.js, Nest.js`
+- 💬 Ask me about `React, Next.js, Angular, Node.js, Nest.js, Python, DevOps, Gen AI , Vibe Coding, System Design, SQL, NoSQL`
 - 👨‍💻 Life Hack: *Consistency > Motivation*
 - ⚡ Fun fact: I drink coffee like it’s part of my codebase ☕
 
